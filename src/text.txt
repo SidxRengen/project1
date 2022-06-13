@@ -1,0 +1,15 @@
+
+ ul li{
+  display: flex;
+  list-style-type: none;
+  flex-direction: column;
+}
+input{
+  width: 600px;
+  height: 30px;
+  color: white;
+  background-color: #121212;
+  border: blue solid 2px;
+  } 
+  
+    font-family: "Roboto","Arial",sans-serif;
